@@ -1,2 +1,6 @@
 # Hello-World
-Just testing, I'm new here
+
+
+I'm Lekan 
+
+Data Analyst, loves data visualisation a little too much. 
